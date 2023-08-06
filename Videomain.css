@@ -1,0 +1,42 @@
+.dark{
+    background-color: gray;
+    color: white;
+}
+.container{
+    width:6em;
+    margin:0 0.2em;
+    float:left;
+    position: relative;
+}
+
+/* .pic img{
+    width: auto;
+    position: relative;
+    padding: 5px 5px 5px 5px;
+} */
+
+.pic img{
+    width:100%
+}
+.title{
+    font-weight: bold;
+    margin-bottom: 1em;
+    color: aqua;
+}
+
+.channel,.views{
+ font-size: small;
+ color: yellow;
+ margin-bottom: 1em;
+
+}
+
+.views span{
+    padding: 0 0.5em;
+}
+
+.close
+{
+    position: relative;
+    right:0;
+}
